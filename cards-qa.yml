@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to westcostlands cards related QA APIs "
+  contactDetails:
+    name: "Cherryl Smith - QA Lead"
+    email: "cherryl@westcostlands.com"
+  onCallSupport:
+    - (424) 123-0000
+    - (424) 123-0000

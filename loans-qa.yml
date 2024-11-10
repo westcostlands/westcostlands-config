@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to westcostlands loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@westcostlands.com"
+  onCallSupport:
+    - (424) 123-0000
+    - (424) 123-0000

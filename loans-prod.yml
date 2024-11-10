@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to westcostlands loans related prod APIs "
+  contactDetails:
+    name: "Smith Jay - Product Owner"
+    email: "smith@westcostlands.com"
+  onCallSupport:
+    - (424) 123-0000
+    - (424) 123-0000

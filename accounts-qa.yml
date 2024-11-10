@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to WestCost accounts related QA APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@westcostlands.com"
+  onCallSupport:
+    - (424) 123-0000
+    - (424) 123-0000

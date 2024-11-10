@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to westcostlands accounts related docker APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@westcostlands.com"
+  onCallSupport:
+    - (424) 123-0000
+    - (424) 123-0000
